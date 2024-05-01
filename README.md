@@ -106,6 +106,9 @@ Client-server chat applications are foundational to real-time communication over
 ## PROGRAM
 ### CLIENT:
 ```
+#Name: Mohamed Anas O.I
+#Reg No: 212223110028
+
 import socket
 s=socket.socket()
 s.bind(('localhost',8000))
@@ -128,6 +131,9 @@ while True:
 
 ### SERVER:
 ```
+#Name: Mohamed Anas O.I
+#Reg No: 212223110028
+
 import socket
 s=socket.socket()
 s.connect(('localhost',8000))
